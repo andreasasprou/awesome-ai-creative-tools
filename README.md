@@ -2,119 +2,120 @@
 
 A curated list of AI-powered tools for creative professionals -- designers, video editors, musicians, illustrators, and content creators.
 
-Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily coverage of the AI creative tools landscape, see [AI Primer](https://www.ai-primer.com/creative) and the [Explore feed](https://www.ai-primer.com/creative/stories/a16z-top-100-creative-tools).
+Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily coverage of the AI creative tools landscape, see [AI Primer for Creatives](https://www.ai-primer.com/creative).
 
 ---
 
 ## Contents
 
-- [Image Generation](#image-generation)
-- [Video Generation](#video-generation)
+- [Image Generation & Design](#image-generation--design)
+- [Video Generation & Film](#video-generation--film)
 - [Music & Audio](#music--audio)
-- [Design & UI](#design--ui)
-- [Writing & Copy](#writing--copy)
-- [3D & Spatial](#3d--spatial)
-- [Photography & Editing](#photography--editing)
-- [Presentation & Slides](#presentation--slides)
+- [Writing](#writing)
+- [Product Design](#product-design)
+- [Featured Stories](#featured-stories)
 
 ---
 
-## Image Generation
+## Image Generation & Design
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Midjourney](https://www.midjourney.com) | High-quality image generation with strong aesthetic control | From $10/mo |
-| [DALL-E 3](https://openai.com/dall-e-3) | OpenAI's image model, integrated into ChatGPT | Included with ChatGPT Plus |
-| [Stable Diffusion](https://stability.ai) | Open-source image generation, runs locally or via API | Free (self-hosted) / API pricing |
-| [Flux](https://blackforestlabs.ai) | Black Forest Labs' high-fidelity image model | API pricing |
-| [Ideogram](https://ideogram.ai) | Strong at text rendering in images | Free tier available |
-| [Leonardo.ai](https://leonardo.ai) | Image generation with fine-tuning and model training | Free tier available |
-| [Freepik AI](https://www.freepik.com) | AI image tools integrated into a stock asset platform | From $9/mo |
+> Browse all tools and latest stories at [AI Primer: Image & Design](https://www.ai-primer.com/creative/image-and-design)
 
-## Video Generation
+| Tool | Description | AI Primer Profile |
+|------|-------------|-------------------|
+| [Midjourney](https://www.midjourney.com) | High-quality image generation with strong aesthetic control and style references (sref) | [Profile](https://www.ai-primer.com/creative/tools/midjourney) |
+| [DALL-E](https://openai.com/dall-e-3) | OpenAI's image model, integrated into ChatGPT | [Profile](https://www.ai-primer.com/creative/tools/dall-e) |
+| [Stable Diffusion](https://stability.ai) | Open-source image generation, runs locally or via API | [Profile](https://www.ai-primer.com/creative/tools/stable-diffusion) |
+| [Flux](https://blackforestlabs.ai) | Black Forest Labs' high-fidelity image model | [Profile](https://www.ai-primer.com/creative/tools/flux) |
+| [Adobe Firefly](https://www.adobe.com/products/firefly.html) | AI generation and editing inside Adobe Creative Cloud | [Profile](https://www.ai-primer.com/creative/tools/adobe-firefly) |
+| [Freepik](https://www.freepik.com) | AI image tools, Spaces workflows, and stock assets | [Profile](https://www.ai-primer.com/creative/tools/freepik) |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based UI for Stable Diffusion workflows | [Profile](https://www.ai-primer.com/creative/tools/comfyui) |
+| [Imagen](https://deepmind.google/technologies/imagen/) | Google DeepMind's image generation model | [Profile](https://www.ai-primer.com/creative/tools/imagen) |
+| [Recraft](https://www.recraft.ai) | Vector and raster image generation for designers | -- |
+| [Leonardo.ai](https://leonardo.ai) | Image generation with fine-tuning and model training | -- |
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Runway](https://runwayml.com) | Gen-3 Alpha video generation, multi-shot editing | From $12/mo |
-| [Kling](https://klingai.com) | High-quality video gen with strong motion coherence | Free tier available |
-| [Sora](https://openai.com/sora) | OpenAI's video generation model | Included with ChatGPT Plus/Pro |
-| [Pika](https://pika.art) | Fast video generation and editing | Free tier available |
-| [Veo](https://deepmind.google/technologies/veo/) | Google DeepMind's video generation model | Via Vertex AI |
-| [HailuoAI (MiniMax)](https://hailuoai.video) | Video generation with Director mode | Free tier available |
-| [Seedance](https://seedance.ai) | ByteDance's video and dance generation model | API access |
+## Video Generation & Film
+
+> Browse all tools and latest stories at [AI Primer: Video & Film](https://www.ai-primer.com/creative/video-and-film)
+
+| Tool | Description | AI Primer Profile |
+|------|-------------|-------------------|
+| [Runway](https://runwayml.com) | Gen-3 Alpha video generation, multi-shot editing | [Profile](https://www.ai-primer.com/creative/tools/runway-gen) |
+| [Kling](https://klingai.com) | High-quality video gen with motion control and multi-shot workflows | [Profile](https://www.ai-primer.com/creative/tools/kling) |
+| [Sora](https://openai.com/sora) | OpenAI's video generation model (app deprecated, API remains) | [Profile](https://www.ai-primer.com/creative/tools/sora) |
+| [Pika](https://pika.art) | Fast video generation and editing | [Profile](https://www.ai-primer.com/creative/tools/pika) |
+| [Veo](https://deepmind.google/technologies/veo/) | Google DeepMind's video generation model | [Profile](https://www.ai-primer.com/creative/tools/veo) |
+| [HailuoAI (MiniMax)](https://hailuoai.video) | Video generation with Light Studio relighting | [Profile](https://www.ai-primer.com/creative/tools/hailuo-ai) |
+| [Seedance](https://seedance.ai) | ByteDance's video generation with motion control | [Profile](https://www.ai-primer.com/creative/tools/seedance) |
+| [Higgsfield](https://higgsfield.ai) | Character-consistent video with Soul Cast likeness | [Profile](https://www.ai-primer.com/creative/tools/higgsfield) |
+| [LTX](https://ltx.studio) | Open-source video generation with audio-to-video | -- |
+| [PixVerse](https://pixverse.ai) | Multi-shot audiovisual video generation | -- |
 
 ## Music & Audio
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Suno](https://suno.com) | Full song generation from text prompts | Free tier available |
-| [Udio](https://www.udio.com) | Music generation with genre and style control | Free tier available |
-| [ElevenLabs](https://elevenlabs.io) | Voice cloning, text-to-speech, and audio AI | Free tier available |
-| [Murf.ai](https://murf.ai) | AI voiceover and text-to-speech | From $19/mo |
-| [AIVA](https://www.aiva.ai) | AI music composition for soundtracks | Free tier available |
+> Browse all tools and latest stories at [AI Primer: Audio & Voice](https://www.ai-primer.com/creative/audio-and-voice)
 
-## Design & UI
+| Tool | Description | AI Primer Profile |
+|------|-------------|-------------------|
+| [Suno](https://suno.com) | Full song generation from text prompts | [Profile](https://www.ai-primer.com/creative/tools/suno) |
+| [Udio](https://www.udio.com) | Music generation with genre and style control | [Profile](https://www.ai-primer.com/creative/tools/udio) |
+| [ElevenLabs](https://elevenlabs.io) | Voice cloning, text-to-speech, and Flows audio agents | [Profile](https://www.ai-primer.com/creative/tools/elevenlabs) |
+| [Lyria 3 Pro](https://deepmind.google/technologies/lyria/) | Google DeepMind's music generation via Gemini | -- |
+| [KittenTTS](https://github.com/kittentts/kittentts) | 25MB open-source TTS that runs on CPU | -- |
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Canva](https://www.canva.com) | All-in-one design platform with AI features (Magic Studio) | Free tier available |
-| [Figma AI](https://www.figma.com) | AI-assisted UI design and prototyping | From $15/mo |
-| [Framer](https://www.framer.com) | AI-powered website builder | Free tier available |
-| [Looka](https://looka.com) | AI logo and brand identity generator | Pay per download |
-| [Galileo AI](https://www.usegalileo.ai) | Text-to-UI design generation | Beta |
-| [Recraft](https://www.recraft.ai) | Vector and raster image generation for designers | Free tier available |
+## Writing
 
-## Writing & Copy
+> Browse all tools and latest stories at [AI Primer: Writing](https://www.ai-primer.com/creative/writing)
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [ChatGPT](https://chat.openai.com) | General-purpose AI writing assistant | Free tier available |
-| [Claude](https://claude.ai) | Anthropic's AI assistant, strong at long-form writing | Free tier available |
-| [Jasper](https://www.jasper.ai) | Marketing-focused AI copywriting | From $39/mo |
-| [Copy.ai](https://www.copy.ai) | AI copywriting for marketing teams | Free tier available |
-| [Notion AI](https://www.notion.so/product/ai) | AI writing integrated into Notion workspace | Add-on $10/mo |
-| [Grammarly](https://www.grammarly.com) | AI writing assistant with grammar and style checks | Free tier available |
+| Tool | Description | AI Primer Profile |
+|------|-------------|-------------------|
+| [ChatGPT](https://chat.openai.com) | General-purpose AI writing assistant | [Profile](https://www.ai-primer.com/creative/tools/chatgpt) |
+| [Claude](https://claude.ai) | Anthropic's AI assistant, strong at long-form writing | [Profile](https://www.ai-primer.com/creative/tools/claude) |
+| [Gemini](https://gemini.google.com) | Google's AI assistant with research and charts | [Profile](https://www.ai-primer.com/creative/tools/gemini) |
+| [Grammarly](https://www.grammarly.com) | AI writing assistant with grammar and style checks | -- |
+| [Notion AI](https://www.notion.so/product/ai) | AI writing integrated into Notion workspace | -- |
 
-## 3D & Spatial
+## Product Design
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Meshy](https://www.meshy.ai) | Text and image to 3D model generation | Free tier available |
-| [Tripo](https://www.tripo3d.ai) | Fast 3D model generation from images | Free tier available |
-| [Luma AI](https://lumalabs.ai) | 3D capture and generation (Genie) | Free tier available |
-| [Spline AI](https://spline.design) | AI-assisted 3D design for the web | Free tier available |
+> Browse all tools and latest stories at [AI Primer: Product Design](https://www.ai-primer.com/creative/product-design)
 
-## Photography & Editing
+| Tool | Description | AI Primer Profile |
+|------|-------------|-------------------|
+| [Meshy](https://www.meshy.ai) | Text and image to 3D model generation with MCP agent support | [Profile](https://www.ai-primer.com/creative/tools/meshy) |
+| [Figma](https://www.figma.com) | AI-assisted UI design and prototyping | -- |
+| [Framer](https://www.framer.com) | AI-powered website builder | -- |
+| [Google Stitch](https://stitch.google) | AI-native design canvas for prototyping | -- |
+| [Tripo](https://www.tripo3d.ai) | Smart Mesh 2D-to-3D generation | -- |
+| [Spline AI](https://spline.design) | AI-assisted 3D design for the web | -- |
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Adobe Firefly](https://www.adobe.com/products/firefly.html) | AI generation and editing inside Adobe Creative Cloud | Included with CC plans |
-| [Picsart](https://picsart.com) | AI photo and video editing | Free tier available |
-| [Photoroom](https://www.photoroom.com) | AI background removal and product photography | Free tier available |
-| [Topaz Labs](https://www.topazlabs.com) | AI photo and video enhancement (upscale, denoise, sharpen) | One-time purchase |
-| [Clipdrop](https://clipdrop.co) | AI image editing tools (by Stability AI) | Free tier available |
+---
 
-## Presentation & Slides
+## Featured Stories
 
-| Tool | Description | Pricing |
-|------|-------------|---------|
-| [Gamma](https://gamma.app) | AI-powered presentation and document creation | Free tier available |
-| [Tome](https://tome.app) | AI presentation builder | Free tier available |
-| [Beautiful.ai](https://www.beautiful.ai) | AI-assisted slide design | From $12/mo |
+Recent in-depth coverage from [AI Primer Explore](https://www.ai-primer.com/creative):
+
+- [a16z ranks Canva No. 3 and Freepik No. 11 in its 2026 Gen AI web list](https://www.ai-primer.com/creative/stories/a16z-top-100-creative-tools)
+- [Runway launches multi-shot web app for scene-level video editing](https://www.ai-primer.com/creative/stories/runway-multi-shot-web-app)
+- [Midjourney v8 alpha launches with radical style improvements](https://www.ai-primer.com/creative/stories/midjourney-v8-alpha-launch)
+- [Seedance 2 global launch with motion control and prompt grammars](https://www.ai-primer.com/creative/stories/seedance-2-global-launch-limited-china)
+- [Kling 3 multi-shot workflows and character consistency](https://www.ai-primer.com/creative/stories/kling-3-multishot-workflows)
+- [Adobe Firefly custom models enter open beta](https://www.ai-primer.com/creative/stories/firefly-custom-models-open-beta)
+- [Luma Uni-1 unified image model with reference-guided generation](https://www.ai-primer.com/creative/stories/luma-uni-1-unified-image-model)
+- [HailuoAI Light Studio brings prompt-free relighting to the browser](https://www.ai-primer.com/creative/stories/hailuo-light-studio-prompt-free-relight)
 
 ---
 
 ## How This List Is Maintained
 
-This list is updated regularly based on the latest developments in the AI creative tools space. For real-time tracking of new tools, rankings, and industry analysis, check out:
+This list is updated regularly based on the latest developments in the AI creative tools space. For real-time tracking:
 
 - [AI Primer for Creatives](https://www.ai-primer.com/creative) -- daily briefings on the AI creative tools landscape
-- [AI Primer Explore](https://www.ai-primer.com/creative/stories/a16z-top-100-creative-tools) -- in-depth stories like the a16z Top 100 breakdown
 - [AI Primer for Engineers](https://www.ai-primer.com/engineer) -- the engineering side of AI tools
+- [AI Primer Tool Directory](https://www.ai-primer.com/creative/tools) -- searchable directory of 75+ AI creative tools
 
 ## Contributing
 
-PRs welcome. When adding a tool, include a brief description and current pricing model. Prefer tools that are publicly available over closed betas.
+PRs welcome. When adding a tool, include a brief description and link to its AI Primer profile if one exists.
 
 ## License
 
