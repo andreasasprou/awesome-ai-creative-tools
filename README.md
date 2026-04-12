@@ -60,6 +60,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Suno](https://suno.com) | Full song generation from text prompts | [Profile](https://www.ai-primer.com/creative/tools/suno) |
 | [Udio](https://www.udio.com) | Music generation with genre and style control | [Profile](https://www.ai-primer.com/creative/tools/udio) |
 | [ElevenLabs](https://elevenlabs.io) | Voice cloning, text-to-speech, and Flows audio agents | [Profile](https://www.ai-primer.com/creative/tools/elevenlabs) |
+| [voicetoinstrument.com](https://voicetoinstrument.com) | Convert voice to instrumental tracks using AI | -- |
 | [Lyria 3 Pro](https://deepmind.google/technologies/lyria/) | Google DeepMind's music generation via Gemini | -- |
 | [KittenTTS](https://github.com/kittentts/kittentts) | 25MB open-source TTS that runs on CPU | -- |
 
