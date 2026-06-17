@@ -33,6 +33,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Imagen](https://deepmind.google/technologies/imagen/) | Google DeepMind's image generation model | [Profile](https://www.ai-primer.com/creative/tools/imagen) |
 | [Recraft](https://www.recraft.ai) | Vector and raster image generation for designers | -- |
 | [Leonardo.ai](https://leonardo.ai) | Image generation with fine-tuning and model training | -- |
+| [Seedream AI Studio](https://seedream4.video/) | ByteDance's multi-model image generation platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena; supports up to 10 reference images and one-click video via Kling 2.1 | -- |
 
 ## Video Generation & Film
 
