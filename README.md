@@ -50,6 +50,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Higgsfield](https://higgsfield.ai) | Character-consistent video with Soul Cast likeness | [Profile](https://www.ai-primer.com/creative/tools/higgsfield) |
 | [LTX](https://ltx.studio) | Open-source video generation with audio-to-video | -- |
 | [PixVerse](https://pixverse.ai) | Multi-shot audiovisual video generation | -- |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and assemble videos using an editable plan.json | -- |
 
 ## Music & Audio
 
