@@ -33,6 +33,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Imagen](https://deepmind.google/technologies/imagen/) | Google DeepMind's image generation model | [Profile](https://www.ai-primer.com/creative/tools/imagen) |
 | [Recraft](https://www.recraft.ai) | Vector and raster image generation for designers | -- |
 | [Leonardo.ai](https://leonardo.ai) | Image generation with fine-tuning and model training | -- |
+| [ImageStudio in Orkas](https://orkas.ai/agents/image-studio/?source=gh_asprou) | Turns creative briefs into posters, covers and infographics using HTML/CSS/SVG and image models inside Orkas, an open-source, local-first desktop AI workforce | -- |
 
 ## Video Generation & Film
 
