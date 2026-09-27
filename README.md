@@ -23,6 +23,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 
 | Tool | Description | AI Primer Profile |
 |------|-------------|-------------------|
+| [Raphael](https://raphael.app) | Free unlimited AI image generator with multi-model routing | — |
 | [Midjourney](https://www.midjourney.com) | High-quality image generation with strong aesthetic control and style references (sref) | [Profile](https://www.ai-primer.com/creative/tools/midjourney) |
 | [DALL-E](https://openai.com/dall-e-3) | OpenAI's image model, integrated into ChatGPT | [Profile](https://www.ai-primer.com/creative/tools/dall-e) |
 | [Stable Diffusion](https://stability.ai) | Open-source image generation, runs locally or via API | [Profile](https://www.ai-primer.com/creative/tools/stable-diffusion) |
