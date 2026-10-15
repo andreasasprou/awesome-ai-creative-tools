@@ -33,6 +33,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Imagen](https://deepmind.google/technologies/imagen/) | Google DeepMind's image generation model | [Profile](https://www.ai-primer.com/creative/tools/imagen) |
 | [Recraft](https://www.recraft.ai) | Vector and raster image generation for designers | -- |
 | [Leonardo.ai](https://leonardo.ai) | Image generation with fine-tuning and model training | -- |
+| [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) | Ficory LLC의 기업급 만화 리더·번역기는 지원하는 모든 번역 언어인 100개 이상의 언어로 개인의 일괄·맞춤 번역을 처리하고, 스튜디오에 완전한 온라인 Photoshop 방식 편집기를 제공하며, API로 개인 작업 흐름을 연결합니다. 무료 이용 한도와 유료 옵션이 있습니다. | -- |
 
 ## Video Generation & Film
 
