@@ -50,6 +50,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Higgsfield](https://higgsfield.ai) | Character-consistent video with Soul Cast likeness | [Profile](https://www.ai-primer.com/creative/tools/higgsfield) |
 | [LTX](https://ltx.studio) | Open-source video generation with audio-to-video | -- |
 | [PixVerse](https://pixverse.ai) | Multi-shot audiovisual video generation | -- |
+| [Ideoy](https://ideoy.ai) | Remake this week's memes with one selfie (AI image-to-video) | -- |
 
 ## Music & Audio
 
