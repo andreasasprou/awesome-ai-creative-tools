@@ -74,6 +74,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Gemini](https://gemini.google.com) | Google's AI assistant with research and charts | [Profile](https://www.ai-primer.com/creative/tools/gemini) |
 | [Grammarly](https://www.grammarly.com) | AI writing assistant with grammar and style checks | -- |
 | [Notion AI](https://www.notion.so/product/ai) | AI writing integrated into Notion workspace | -- |
+| [Breatic](https://github.com/orime-org/breatic) | Open-source collaborative creation workspace with shared briefs, documents, AI canvases, and project-aware agents | -- |
 
 ## Product Design
 
