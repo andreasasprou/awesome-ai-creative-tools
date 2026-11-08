@@ -44,6 +44,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Kling](https://klingai.com) | High-quality video gen with motion control and multi-shot workflows | [Profile](https://www.ai-primer.com/creative/tools/kling) |
 | [Sora](https://openai.com/sora) | OpenAI's video generation model (app deprecated, API remains) | [Profile](https://www.ai-primer.com/creative/tools/sora) |
 | [Pika](https://pika.art) | Fast video generation and editing | [Profile](https://www.ai-primer.com/creative/tools/pika) |
+| [ReelAI](https://tryreelai.com/) | Image-to-video creation with preset effects; paid plans | -- |
 | [Veo](https://deepmind.google/technologies/veo/) | Google DeepMind's video generation model | [Profile](https://www.ai-primer.com/creative/tools/veo) |
 | [HailuoAI (MiniMax)](https://hailuoai.video) | Video generation with Light Studio relighting | [Profile](https://www.ai-primer.com/creative/tools/hailuo-ai) |
 | [Seedance](https://seedance.ai) | ByteDance's video generation with motion control | [Profile](https://www.ai-primer.com/creative/tools/seedance) |
