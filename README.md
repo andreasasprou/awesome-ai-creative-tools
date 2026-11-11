@@ -86,6 +86,7 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 | [Framer](https://www.framer.com) | AI-powered website builder | -- |
 | [Google Stitch](https://stitch.google) | AI-native design canvas for prototyping | -- |
 | [Tripo](https://www.tripo3d.ai) | Smart Mesh 2D-to-3D generation | -- |
+| [Novastart](https://novastart.com/) | Infinite canvas workspace for apps, shared canvases, and AI agents; freemium | -- |
 | [Spline AI](https://spline.design) | AI-assisted 3D design for the web | -- |
 
 ---
